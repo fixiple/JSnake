@@ -5,6 +5,8 @@ It's a passion projet made in java, where I want to recreate the famous snake ga
 
 > The project started on the 28th of march 2024 and was highly inspired by a video from Bro Code [here](https://www.youtube.com/watch?v=bI6e6qjJ8JQ). 
 
+https://github.com/fixiple/JSnake/assets/59767843/7b043f37-f2e8-405b-ae61-93be11e8cbba
+
 ## Getting Started
 
 To launch the main program (file containing the main function), do the following (more info see [here](https://www.baeldung.com/javac-compile-classes-directory#using-file-names) and [here](https://stackoverflow.com/a/42819276)), like below:
