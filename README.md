@@ -3,7 +3,9 @@
 ## what is that?
 It's a passion projet made in java, where I want to recreate the famous snake game by making my own "engine" in Java
 
-> The project started on the 28th of march 2024. 
+> The project started on the 28th of march 2024 and was highly inspired by a video from Bro Code [here](https://www.youtube.com/watch?v=bI6e6qjJ8JQ). 
+
+![](https://github.com/fixiple/JSnake/assets/59767843/1fcb315e-4e9a-400f-9130-704670120775)
 
 ## Getting Started
 
